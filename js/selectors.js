@@ -6,6 +6,6 @@ function lastImageSelector(){
   // return images[images.length-1]
   return $('img:last')
 }
-function functionName() {
-
+function ninjaBabySelector() {
+  return $('#pic-list img:first')
 }
