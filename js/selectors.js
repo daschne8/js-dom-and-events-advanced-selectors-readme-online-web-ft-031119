@@ -7,5 +7,5 @@ function lastImageSelector(){
   return $('img:last-child')
 }
 function functionName() {
-  
+
 }
