@@ -3,5 +3,5 @@ function paragraphSelector(){
 }
 function lastImageSelector(){
   let images =  $('img')
-  return images[-1]
+  return images[images.length-1]
 }
